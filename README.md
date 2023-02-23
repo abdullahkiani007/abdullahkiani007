@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdullah Kiani
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning HTML , CSS and JavaScript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on open sourse web projects
 - 📫 How to reach me My email : abdullahkiani931@gmail.com
 

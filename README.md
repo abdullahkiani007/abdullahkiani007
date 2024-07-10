@@ -1,22 +1,20 @@
 # 👋 Hi there, I'm Abdullah Kiani
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-I'm a self taught full stack developer , currently focusing on learning NEXT and exploring the world of frontend development.
+I'm a self taught full stack developer , currently focusing on learning AI/ML.
 
 ## 🚀 My Interests
 
-- Frontend Development
 - Backend Development
 - React.js and JavaScript
+- Machine Learning
 
 
 ## 🌱 What I'm Learning
 
 I'm currently deepening my knowledge in:
 
-- React.js and its ecosystem
-- Modern JavaScript (ES6+)
-- NEXTjs
+- Machine Learning
 
 ## 🛠️ Technologies & Tools
 
